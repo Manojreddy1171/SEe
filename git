@@ -1,0 +1,10 @@
+[23-12-2024 10:19] Manoj Reddy: Cd demo
+[23-12-2024 10:20] Manoj Reddy: Notepad first.txt
+[23-12-2024 10:20] Manoj Reddy: Git init
+[23-12-2024 10:20] Manoj Reddy: Git config user.name
+[23-12-2024 10:20] Manoj Reddy: Git config user.email
+[23-12-2024 10:20] Manoj Reddy: Git remote
+[23-12-2024 10:21] Manoj Reddy: Git add first.txt
+[23-12-2024 10:21] Manoj Reddy: Git commit -m  "manoj"
+[23-12-2024 10:22] Manoj Reddy: Git branch -m main
+[23-12-2024 10:22] Manoj Reddy: Git push -u origin main
